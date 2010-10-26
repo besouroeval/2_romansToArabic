@@ -9,7 +9,7 @@ public class Romans {
 		int n=0;
 		int previous = 0;
 		
-		for (int i=0 ; i<string.length() ; i++) {
+		for (int i=1 ; i<string.length() ; i++) {
 			int d = translateDigit(string.charAt(i));
 			if (i>0) {
 				if (previous < d ) {
