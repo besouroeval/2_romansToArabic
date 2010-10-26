@@ -12,7 +12,7 @@ public class Romans {
 		
 		for (int i=0 ; i<string.length() ; i++) {
 			int d = translateDigit(string.charAt(i));
-//			list.add(d);
+			list.add(d);
 			if (i>0 && list.get(i-1) < d ) {
 				n -= 2*list.get(i-1);
 			}
