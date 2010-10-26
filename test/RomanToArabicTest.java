@@ -10,6 +10,7 @@ public class RomanToArabicTest {
 		Assert.assertEquals(1, Romans.toArabic("I"));
 		Assert.assertEquals(5, Romans.toArabic("V"));
 		Assert.assertEquals(10, Romans.toArabic("X"));
+		Assert.assertEquals(50, Romans.toArabic("V"));
 	}
 	
 	
