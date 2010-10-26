@@ -25,3 +25,6 @@ EditAction 1288120190544 RomanToArabicTest.java 284 2 2 2
 UnitTestCaseAction 1288120192714 RomanToArabicTest.java FAIL
 UnitTestSessionAction 1288120192715 RomanToArabicTest.java FAIL
 EditAction 1288120210286 Romans.java 126 1 2 0
+UnitTestCaseAction 1288120212677 RomanToArabicTest.java OK
+UnitTestSessionAction 1288120212678 RomanToArabicTest.java OK
+EditAction 1288120228550 Romans.java 166 1 3 0
