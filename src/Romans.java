@@ -17,7 +17,7 @@ public class Romans {
 				if (list.get(i-1) < d ) {
 					n -= 2*list.get(i-1);
 				}
-				previous = list.get(i-1);
+				previous = list.get(i);
 			}
 			n += d;
 		}
