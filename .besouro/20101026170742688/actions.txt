@@ -90,3 +90,8 @@ EditAction 1288120631600 RomanToArabicTest.java 553 2 7 7
 UnitTestCaseAction 1288120633734 RomanToArabicTest.java OK
 UnitTestSessionAction 1288120633734 RomanToArabicTest.java OK
 EditAction 1288120649482 RomanToArabicTest.java 609 2 8 8
+UnitTestCaseAction 1288120651839 RomanToArabicTest.java OK
+UnitTestSessionAction 1288120651840 RomanToArabicTest.java OK
+RefactoringAction 1288120659577 RomanToArabicTest.java ADD void shouldTranslateSimpleSums()/2 METHOD
+RefactoringAction 1288120668121 RomanToArabicTest.java RENAME shouldTranslateSimpleSums()/2=>void shouldTranslateSubtractions() METHOD
+EditAction 1288120675626 RomanToArabicTest.java 713 3 9 9
