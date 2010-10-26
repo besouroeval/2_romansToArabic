@@ -22,3 +22,6 @@ UnitTestSessionAction 1288120173628 RomanToArabicTest.java OK
 RefactoringAction 1288120180986 RomanToArabicTest.java ADD void shouldTranslateI()/2 METHOD
 RefactoringAction 1288120186010 RomanToArabicTest.java RENAME shouldTranslateI()/2=>void shouldTranslateV() METHOD
 EditAction 1288120190544 RomanToArabicTest.java 284 2 2 2
+UnitTestCaseAction 1288120192714 RomanToArabicTest.java FAIL
+UnitTestSessionAction 1288120192715 RomanToArabicTest.java FAIL
+EditAction 1288120210286 Romans.java 126 1 2 0
