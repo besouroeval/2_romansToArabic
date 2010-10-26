@@ -24,6 +24,7 @@ public class RomanToArabicTest {
 	@Test
 	public void shouldTranslateSubtractions() {
 		Assert.assertEquals(4, Romans.toArabic("IV"));
+		Assert.assertEquals(9, Romans.toArabic("IX"));
 	}
 	
 	
