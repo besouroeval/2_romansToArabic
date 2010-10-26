@@ -5,6 +5,7 @@ public class Romans {
 		int n=0;
 		for (int i=0 ; i<string.length() ; i++) {
 			int d = translateDigit(string.charAt(i));
+			int nextd = translateDigit(string.charAt(i+1));
 			n += d;
 		}
 		return n;
