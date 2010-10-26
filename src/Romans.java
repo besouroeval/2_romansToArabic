@@ -8,13 +8,16 @@ public class Romans {
 		
 		List<Integer> list = new ArrayList<Integer>();
 		
-		int n=0;
-		
 		for (int i=0 ; i<string.length() ; i++) {
 			int d = translateDigit(string.charAt(i));
 			list.add(d);
+		}
+		
+		
+		int n=0;
+		for (int i=0 ; i<list.size() ; i++) {
 			int d = list.get(i);
-			if (i+1 < list.size() && d < list.get(i+1)) {
+			if (i>0 && list.get(i+1) < d ) {
 				d *= -1;
 			}
 			n += d;
