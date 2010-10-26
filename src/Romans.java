@@ -14,8 +14,8 @@ public class Romans {
 		for (int i=0 ; i<string.length() ; i++) {
 			int d = translateDigit(string.charAt(i));
 			if (i>0) {
-				if (list.get(i-1) < d ) {
-					n -= 2*list.get(i-1);
+				if (previous < d ) {
+					n -= 2*previous;
 				}
 				previous = list.get(i);
 			}
