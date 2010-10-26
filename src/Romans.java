@@ -5,7 +5,6 @@ import java.util.List;
 public class Romans {
 
 	public static int toArabic(String string) {
-		int n=0;
 		
 		List<Integer> list = new ArrayList<Integer>();
 		
@@ -14,6 +13,7 @@ public class Romans {
 			list.add(d);
 		}
 		
+		int n=0;
 		for (int i=0 ; i<list.size() ; i++) {
 			if (i+1 < list.size()) {
 				if (list.get(i) < list.get(i)) {
