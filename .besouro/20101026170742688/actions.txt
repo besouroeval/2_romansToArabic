@@ -87,3 +87,6 @@ EditAction 1288120612192 RomanToArabicTest.java 502 2 6 6
 UnitTestCaseAction 1288120617672 RomanToArabicTest.java OK
 UnitTestSessionAction 1288120617673 RomanToArabicTest.java OK
 EditAction 1288120631600 RomanToArabicTest.java 553 2 7 7
+UnitTestCaseAction 1288120633734 RomanToArabicTest.java OK
+UnitTestSessionAction 1288120633734 RomanToArabicTest.java OK
+EditAction 1288120649482 RomanToArabicTest.java 609 2 8 8
