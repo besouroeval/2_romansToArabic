@@ -3,6 +3,9 @@ public class Romans {
 
 	public static int toArabic(String string) {
 		
+		int n=0;
+		
+		for (int i=0 ; i<string.length() ; i++) 
 		int d = translateDigit(string);
 		
 		return d;

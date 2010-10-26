@@ -61,3 +61,6 @@ UnitTestCaseAction 1288120440797 RomanToArabicTest.java FAIL
 UnitTestSessionAction 1288120440798 RomanToArabicTest.java FAIL
 RefactoringAction 1288120460117 Romans.java ADD static int translateDigit(String) METHOD
 EditAction 1288120460121 Romans.java 358 2 8 0
+UnitTestCaseAction 1288120465113 RomanToArabicTest.java FAIL
+UnitTestSessionAction 1288120465113 RomanToArabicTest.java FAIL
+EditAction 1288120500251 Romans.java 415 2 6 0
