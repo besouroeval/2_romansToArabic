@@ -17,3 +17,8 @@ RefactoringAction 1288120152933 Romans.java ADD static Object toArabic(String) M
 EditAction 1288120159545 Romans.java 87 1 1 0
 EditAction 1288120161930 Romans.java 87 1 1 0
 EditAction 1288120167228 Romans.java 87 1 1 0
+UnitTestCaseAction 1288120173627 RomanToArabicTest.java OK
+UnitTestSessionAction 1288120173628 RomanToArabicTest.java OK
+RefactoringAction 1288120180986 RomanToArabicTest.java ADD void shouldTranslateI()/2 METHOD
+RefactoringAction 1288120186010 RomanToArabicTest.java RENAME shouldTranslateI()/2=>void shouldTranslateV() METHOD
+EditAction 1288120190544 RomanToArabicTest.java 284 2 2 2
