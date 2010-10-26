@@ -7,6 +7,7 @@ public class Romans {
 	public static int toArabic(String string) {
 		
 		List<Integer> list = new ArrayList<Integer>();
+		int previous = 0;
 		
 		int n=0;
 		
