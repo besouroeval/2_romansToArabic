@@ -15,6 +15,7 @@ public class Romans {
 		}
 		
 		for (int i=0 ; i<list.size() ; i++) {
+			
 			n += list.get(i);
 		}
 		
