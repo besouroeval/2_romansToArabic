@@ -53,3 +53,4 @@ UnitTestCaseAction 1288120343541 RomanToArabicTest.java OK
 UnitTestSessionAction 1288120343542 RomanToArabicTest.java OK
 RefactoringAction 1288120353998 RomanToArabicTest.java ADD void shouldTranslateBareNumbers()/2 METHOD
 EditAction 1288120362943 RomanToArabicTest.java 451 2 5 5
+EditAction 1288120369683 RomanToArabicTest.java 452 2 5 5
