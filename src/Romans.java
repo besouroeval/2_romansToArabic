@@ -11,6 +11,7 @@ public class Romans {
 		int previous = translateDigit(string.charAt(0));
 		
 		for (int i=1 ; i<string.length() ; i++) {
+			
 			int next = translateDigit(string.charAt(i));
 			
 			if (previous < next ) {
