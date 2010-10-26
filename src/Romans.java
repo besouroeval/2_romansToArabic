@@ -11,16 +11,16 @@ public class Romans {
 		return n;
 	}
 
-	private static int translateDigit(char string) {
+	private static int translateDigit(char digit) {
 		int d = -1;
 		
-		if (string == 'I')
+		if (digit == 'I')
 			d = 1;
-		if (string == 'V')
+		if (digit == 'V')
 			d = 5;
-		if (string== 'X')
+		if (digit== 'X')
 			d = 10;
-		if (string == 'L')
+		if (digit == 'L')
 			d = 50;
 		return d;
 	}

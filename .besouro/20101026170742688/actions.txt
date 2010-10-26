@@ -74,3 +74,6 @@ EditAction 1288120515888 Romans.java 423 2 9 0
 CompilationAction 1288120516062 Romans.java
 RefactoringAction 1288120522485 Romans.java RENAME translateDigit(String)=>static int translateDigit(char) METHOD
 EditAction 1288120556623 Romans.java 400 2 9 0
+UnitTestCaseAction 1288120560178 RomanToArabicTest.java OK
+UnitTestSessionAction 1288120560178 RomanToArabicTest.java OK
+EditAction 1288120570853 Romans.java 395 2 9 0
