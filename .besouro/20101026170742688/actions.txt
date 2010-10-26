@@ -6,3 +6,5 @@ RefactoringAction 1288120102487 RomanToArabicTest.java RENAME shouldTranslate=>v
 RefactoringAction 1288120105492 RomanToArabicTest.java RENAME shouldTranslateI=>void shouldTranslateI() METHOD
 RefactoringAction 1288120111520 RomanToArabicTest.java ADD import org.junit.Test IMPORT
 EditAction 1288120112206 RomanToArabicTest.java 113 1 0 0
+RefactoringAction 1288120125089 RomanToArabicTest.java ADD import junit.framework.Assert IMPORT
+EditAction 1288120143861 RomanToArabicTest.java 190 1 1 1
