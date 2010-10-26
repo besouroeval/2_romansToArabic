@@ -7,7 +7,7 @@ public class Romans {
 		if (string.equals("V"))
 			return 5;
 		if (string.equals("X"))
-			return 5;
+			return 10;
 		return -1;
 	}
 
