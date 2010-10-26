@@ -71,3 +71,6 @@ CompilationAction 1288120505129 Romans.java
 CompilationAction 1288120505148 Romans.java
 CompilationAction 1288120508243 Romans.java
 EditAction 1288120515888 Romans.java 423 2 9 0
+CompilationAction 1288120516062 Romans.java
+RefactoringAction 1288120522485 Romans.java RENAME translateDigit(String)=>static int translateDigit(char) METHOD
+EditAction 1288120556623 Romans.java 400 2 9 0
