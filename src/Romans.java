@@ -13,10 +13,10 @@ public class Romans {
 			list.add(d);
 		}
 		
-		System.out.println(list.size());
 		
 		int n=0;
 		for (int i=0 ; i<list.size() ; i++) {
+			System.out.println("--");
 			if (i+1 < list.size()) {
 				if (list.get(i) < list.get(i+1)) {
 					n -= list.get(i);
