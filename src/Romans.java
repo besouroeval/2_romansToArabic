@@ -11,16 +11,16 @@ public class Romans {
 		int previous = translateDigit(string.charAt(0));
 		
 		for (int i=1 ; i<string.length() ; i++) {
-			int d = translateDigit(string.charAt(i));
+			int next = translateDigit(string.charAt(i));
 			
-			if (previous < d ) {
+			if (previous < next ) {
 				n -= previous;
 			} else {
 				n += previous;
 				
 			}
 				
-			previous = d;
+			previous = next;
 		}
 		
 		n += previous;
