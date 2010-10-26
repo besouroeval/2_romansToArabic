@@ -17,7 +17,10 @@ public class Romans {
 		for (int i=0 ; i<list.size() ; i++) {
 			if (i+1 < list.size()) {
 				if (list.get(i) < list.get(i)) {
-					n +- list.get(i);
+					n -= list.get(i);
+				} else {
+					n += list.get(i);
+					
 				}
 				
 			}
