@@ -13,7 +13,6 @@ public class Romans {
 
 	private static int translateDigit(char digit) {
 		int d = -1;
-		
 		if (digit == 'I')
 			d = 1;
 		if (digit == 'V')
