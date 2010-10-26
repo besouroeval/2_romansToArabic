@@ -6,16 +6,17 @@ public class Romans {
 
 	public static int toArabic(String string) {
 		
-		List<Integer> list = new ArrayList<Integer>();
-		
-		int previous = 0;
 		int n=0;
+		int previous = 0;
 		
 		for (int i=0 ; i<string.length() ; i++) {
 			int d = translateDigit(string.charAt(i));
 			if (i>0) {
 				if (previous < d ) {
-					n -= 2*previous;
+					n -= previous;
+				} else {
+					n += previous;
+					
 				}
 			}
 			n += d;
