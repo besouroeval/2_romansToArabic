@@ -16,7 +16,7 @@ public class Romans {
 		
 		int n=0;
 		for (int i=0 ; i<list.size() ; i++) {
-			System.out.println("--" + list.get(i));
+			int d = list.get(i);
 			if (i+1 < list.size()) {
 				if (list.get(i) < list.get(i+1)) {
 					n -= list.get(i);
