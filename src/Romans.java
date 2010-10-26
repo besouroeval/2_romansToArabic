@@ -14,8 +14,8 @@ public class Romans {
 			list.add(d);
 		}
 		
-		for (int i=0 ; i<string.length() ; i++) {
-			n += d;
+		for (int i=0 ; i<list.size() ; i++) {
+			n += list.get(i);
 		}
 		
 		return n;
