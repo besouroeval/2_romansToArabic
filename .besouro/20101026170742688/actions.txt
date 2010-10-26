@@ -8,3 +8,10 @@ RefactoringAction 1288120111520 RomanToArabicTest.java ADD import org.junit.Test
 EditAction 1288120112206 RomanToArabicTest.java 113 1 0 0
 RefactoringAction 1288120125089 RomanToArabicTest.java ADD import junit.framework.Assert IMPORT
 EditAction 1288120143861 RomanToArabicTest.java 190 1 1 1
+CompilationAction 1288120144093 RomanToArabicTest.java
+RefactoringAction 1288120148338 Romans.java ADD Romans.java CLASS
+CompilationAction 1288120148520 RomanToArabicTest.java
+FileOpenedAction 1288120148650 Romans.java 26 0 0 0
+FileOpenedAction 1288120152408 Romans.java 26 0 0 0
+RefactoringAction 1288120152933 Romans.java ADD static Object toArabic(String) METHOD
+EditAction 1288120159545 Romans.java 87 1 1 0
