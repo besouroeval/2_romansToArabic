@@ -7,7 +7,7 @@ public class Romans {
 	public static int toArabic(String string) {
 		
 		int n=0;
-		int previous = 0;
+		int previous = string.charAt(0);
 		
 		for (int i=1 ; i<string.length() ; i++) {
 			int d = translateDigit(string.charAt(i));
