@@ -19,7 +19,6 @@ public class Romans {
 					
 				}
 			}
-			n += d;
 			previous = d;
 		}
 		
