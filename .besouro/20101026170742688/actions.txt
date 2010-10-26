@@ -64,3 +64,10 @@ EditAction 1288120460121 Romans.java 358 2 8 0
 UnitTestCaseAction 1288120465113 RomanToArabicTest.java FAIL
 UnitTestSessionAction 1288120465113 RomanToArabicTest.java FAIL
 EditAction 1288120500251 Romans.java 415 2 6 0
+CompilationAction 1288120500497 Romans.java
+CompilationAction 1288120500497 Romans.java
+CompilationAction 1288120505129 Romans.java
+CompilationAction 1288120505129 Romans.java
+CompilationAction 1288120505148 Romans.java
+CompilationAction 1288120508243 Romans.java
+EditAction 1288120515888 Romans.java 423 2 9 0

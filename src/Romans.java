@@ -6,9 +6,9 @@ public class Romans {
 		int n=0;
 		
 		for (int i=0 ; i<string.length() ; i++) 
-		int d = translateDigit(string);
+			n += translateDigit(string.charAt(i));
 		
-		return d;
+		return n;
 	}
 
 	private static int translateDigit(String string) {
