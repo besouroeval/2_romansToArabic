@@ -28,3 +28,7 @@ EditAction 1288120210286 Romans.java 126 1 2 0
 UnitTestCaseAction 1288120212677 RomanToArabicTest.java OK
 UnitTestSessionAction 1288120212678 RomanToArabicTest.java OK
 EditAction 1288120228550 Romans.java 166 1 3 0
+UnitTestCaseAction 1288120230626 RomanToArabicTest.java OK
+UnitTestSessionAction 1288120230626 RomanToArabicTest.java OK
+RefactoringAction 1288120276776 RomanToArabicTest.java ADD void shouldTranslateV()/2 METHOD
+EditAction 1288120278702 RomanToArabicTest.java 378 3 3 3

@@ -15,5 +15,10 @@ public class RomanToArabicTest {
 		Assert.assertEquals(5, Romans.toArabic("V"));
 	}
 	
+	@Test
+	public void shouldTranslateX() {
+		Assert.assertEquals(5, Romans.toArabic("V"));
+	}
+	
 	
 }
