@@ -20,7 +20,7 @@ public class Romans {
 			if (i+1 < list.size() && d < list.get(i+1)) {
 				n *= -1;
 			}
-			n += list.get(i);
+			n += d;
 				
 		}
 		
