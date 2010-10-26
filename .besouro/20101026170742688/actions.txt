@@ -49,3 +49,7 @@ EditAction 1288120331287 RomanToArabicTest.java 346 1 4 4
 UnitTestCaseAction 1288120333538 RomanToArabicTest.java FAIL
 UnitTestSessionAction 1288120333538 RomanToArabicTest.java FAIL
 EditAction 1288120341233 Romans.java 246 1 5 0
+UnitTestCaseAction 1288120343541 RomanToArabicTest.java OK
+UnitTestSessionAction 1288120343542 RomanToArabicTest.java OK
+RefactoringAction 1288120353998 RomanToArabicTest.java ADD void shouldTranslateBareNumbers()/2 METHOD
+EditAction 1288120362943 RomanToArabicTest.java 451 2 5 5
