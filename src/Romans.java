@@ -2,12 +2,9 @@
 public class Romans {
 
 	public static int toArabic(String string) {
-		
 		int n=0;
-		
 		for (int i=0 ; i<string.length() ; i++) 
 			n += translateDigit(string.charAt(i));
-		
 		return n;
 	}
 
