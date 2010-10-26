@@ -8,6 +8,8 @@ public class Romans {
 			return 5;
 		if (string.equals("X"))
 			return 10;
+		if (string.equals("L"))
+			return 50;
 		return -1;
 	}
 
