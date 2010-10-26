@@ -33,3 +33,6 @@ UnitTestSessionAction 1288120230626 RomanToArabicTest.java OK
 RefactoringAction 1288120276776 RomanToArabicTest.java ADD void shouldTranslateV()/2 METHOD
 EditAction 1288120278702 RomanToArabicTest.java 378 3 3 3
 EditAction 1288120283497 RomanToArabicTest.java 379 3 3 3
+UnitTestCaseAction 1288120286141 RomanToArabicTest.java FAIL
+UnitTestSessionAction 1288120286141 RomanToArabicTest.java FAIL
+EditAction 1288120294016 Romans.java 205 1 4 0
