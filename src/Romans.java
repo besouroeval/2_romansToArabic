@@ -18,8 +18,8 @@ public class Romans {
 					n -= 2*previous;
 				}
 			}
-			previous = list.get(i);
 			n += d;
+			previous = list.get(i);
 		}
 		
 		return n;
