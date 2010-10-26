@@ -22,6 +22,8 @@ public class Romans {
 			previous = d;
 		}
 		
+		n += previous;
+		
 		return n;
 	}
 
