@@ -18,7 +18,8 @@ public class Romans {
 		for (int i=0 ; i<list.size() ; i++) {
 			int d = list.get(i);
 			if (i>0 && list.get(i+1) < d ) {
-				list.set(i-1, list.get(i-1)*-1);
+//				list.set(i-1, list.get(i-1)*-1);
+				n -= 2*d;
 			}
 			n += d;
 		}
