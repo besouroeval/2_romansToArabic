@@ -36,6 +36,8 @@ public class Romans {
 			d = 10;
 		if (digit == 'L')
 			d = 50;
+		if (digit == 'C')
+			d = 100;
 		return d;
 	}
 
