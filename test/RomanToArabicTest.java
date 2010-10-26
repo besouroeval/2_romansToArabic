@@ -16,6 +16,7 @@ public class RomanToArabicTest {
 	@Test
 	public void shouldTranslateSimpleSums() {
 		Assert.assertEquals(2, Romans.toArabic("II"));
+		Assert.assertEquals(3, Romans.toArabic("III"));
 	}
 	
 	
