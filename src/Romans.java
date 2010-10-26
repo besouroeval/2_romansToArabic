@@ -19,7 +19,7 @@ public class Romans {
 				}
 			}
 			n += d;
-			previous = list.get(i);
+			previous = d;
 		}
 		
 		return n;
